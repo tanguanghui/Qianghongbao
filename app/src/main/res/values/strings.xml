@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">微信抢红包</string>
+    <string name="accessibility_description">启动抢红包服务（使用QQ，微信）</string>
+</resources>
